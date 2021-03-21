@@ -1,0 +1,13 @@
+C:\Users\my\Desktop\201811527_patent\201811527_patent\bin\Debug\201811527_patent.exe.config
+C:\Users\my\Desktop\201811527_patent\201811527_patent\bin\Debug\201811527_patent.exe
+C:\Users\my\Desktop\201811527_patent\201811527_patent\bin\Debug\201811527_patent.pdb
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\201811527_patent.csprojAssemblyReference.cache
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\_201811527_patent.Properties.Resources.resources
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\201811527_patent.csproj.GenerateResource.cache
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\201811527_patent.csproj.CoreCompileInputs.cache
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\201811527_patent.exe
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\201811527_patent.pdb
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\_201811527_patent.Form1.resources
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\_201811527_patent.Form2.resources
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\_201811527_patent.Form3.resources
+C:\Users\my\Desktop\201811527_patent\201811527_patent\obj\Debug\_201811527_patent.Form4.resources
